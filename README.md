@@ -1,21 +1,26 @@
-AI-Engineer-Bootcamp/
+# AI Engineer Bootcamp
 
-│── README.md
+## About
 
-│
+This repository documents my journey toward becoming an AI Engineer.
 
-├── Notes/
+## Goals
 
-│      └── NLP/
+- Learn NLP
+- Learn Transformers
+- Learn LLMs
+- Build AI Projects
+- Become Internship Ready
 
-│
+## Weekly Progress
 
-├── Notebooks/
+### Week 1
 
-│
-
-├── Projects/
-
-│
-
-└── Resources/
+- [ ] NLP Basics
+- [ ] Text Preprocessing
+- [ ] Tokenization
+- [ ] Stemming
+- [ ] Lemmatization
+- [ ] Bag of Words
+- [ ] TF-IDF
+- [ ] Mini NLP Playground
